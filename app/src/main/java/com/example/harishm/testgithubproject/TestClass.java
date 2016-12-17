@@ -8,6 +8,7 @@ public class TestClass
     void show()
     {
         System.out.println("TEst");
+        System.out.println("Commit Check!");
     }
 
 }
